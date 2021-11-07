@@ -1,4 +1,9 @@
+
 .App {
+  text-align: center;
+  background-color: black;
+}
+.BendById{
   text-align: center;
 }
 
@@ -22,6 +27,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  text-align: center;
+}
+
+.Container{
+  text-align: center;
 }
 
 .App-link {
